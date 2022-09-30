@@ -2,16 +2,16 @@
 
 ## Table of content
 
-- [Description](#description)
-- [How to Run the Application](#howtorun)
-- [Roadmap of Future Improvements](#roadmap)
+- [Description](##description)
+- [How to Run the Application](#about)
+- [Improvements Made](#improvement)
 - [License](#license)
 - [Demo](#demo)
 
 ## Description
 This is a simple React application which allows ATM deposits and withdrawals and updates the DOM to show the changes in the bank account.  It uses the useState React hook to access the DOM element values and update.
 
-<img src="./images/atm.jpg">
+<img src="./assets/atm.jpg">
 
 ## Setting Up and Running The Application
 
