@@ -2,9 +2,9 @@
 
 ## Table of content
 
-- [Description](##description)
+- [Description](#description)
 - [How to Run the Application](#about)
-- [Improvements Made](#improvement)
+- [Improvements Made](#improvements)
 - [License](#license)
 - [Demo](#demo)
 
