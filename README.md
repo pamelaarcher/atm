@@ -26,7 +26,7 @@ This application is made up of 3 main files
  (2) Once installed in a directory, run an http-server from the directory and identify the ip/port number used
  (3) Open your browser and enter <ip>:<port>/index.html from input line
  
-## Improvements Made
+### Improvements Made
 •	 Cleaned up the UI to include a select input to enter whether the user wants to Deposit $$ or get Cash Back.   Based on this choice, added code to only amount input if a valid option was chosen.  Also included access to the resulting value through React hook useState and either decrement or increment the bank account amount.
 •	 Included validation logic to prevent Cash Back withdrawals greater than what is available in the Account.  This includes having the Submit button deactivated if the input value is not valid.
 •	 Added additional style to the elements to make them easier to view and read (e.g. the select option element was shorter then the entry values).
